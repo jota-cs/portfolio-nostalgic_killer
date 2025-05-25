@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
             // Define o delay de 2 segundos (2000 milissegundos)
             setTimeout(function() {
-                window.location.href = '/index.html';
+                window.location.href = '/main.html';
             }, 2000); // 2000 milissegundos = 2 segundos
         });
     }
